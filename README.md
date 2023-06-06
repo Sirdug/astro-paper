@@ -1,2 +1,2 @@
 # webapp_counter
-rcon webapp thing
+This is an aplication that will halp you monitoy your mincraft server from inside you home.
