@@ -1,3 +1,36 @@
 body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(34, 34, 34);
+}
+
+header {
+   align-self: center;
+   color: lightblue;
+}
+
+banner {
+    background: #17142f;
+    white-space: nowrap;
+    box-shadow: 0 0 30px #17142f;
+    text-align: center;
+    position: relative;
+}
+
+h1 {
+    align-items: center;
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+.copyright a{
+	color: #fff;
+	font-size: 1rem;
+	letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.copyright a:hover{
+	color: var(--main-decor-color);
 }
